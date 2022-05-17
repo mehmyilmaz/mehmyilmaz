@@ -4,7 +4,8 @@
 
 #### I'm a Frontend Developer
 
-###NOW
+#### NOW
+
 - ✨ Student  [The Rolling Scopes School](https://rs.school/);
 - 💻 I'm currently learning everything that connected with web development
 - 📌 [My Portfolio](https://mehmyilmaz.github.io/rsschool-cv/)
@@ -43,9 +44,6 @@
 
 
 
-
-##<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmyilmaz&layout=compact&theme=dark" >
 
 
 ## <summary>:bulb: Github Stats</summary>

@@ -4,13 +4,13 @@
 
 #### I'm a Frontend Developer
 
-####NOW
+###NOW
 - ✨ Student  [The Rolling Scopes School](https://rs.school/);
 - 💻 I'm currently learning everything that connected with web development
 - 📌 [My Portfolio](https://mehmyilmaz.github.io/rsschool-cv/)
 
 
-##### Reach out to me
+#### Reach out to me
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" display="inline"/>][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" align="left"  display="inline"/>][telegram]
